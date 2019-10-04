@@ -1,0 +1,210 @@
+.version.angel_concert_info /* version checker */
+{
+	color: #0000F8;
+	background-color: #BEB53D;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/main_bg.jpg") repeat-x left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 922px;
+	min-height: 733px;
+	-pie-box-shadow: 0px 0px 8px #7F7F7F;
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 26px 18px 42px 20px;
+}
+
+#pu362
+{
+	width: 0.01px;
+	margin-left: 3px;
+}
+
+#u362
+{
+	z-index: 14;
+	width: 144px;
+	margin-right: -10000px;
+}
+
+#u361-4
+{
+	z-index: 20;
+	width: 134px;
+	min-height: 12px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 5px;
+}
+
+#u332
+{
+	z-index: 13;
+	width: 144px;
+	margin-right: -10000px;
+	left: 161px;
+}
+
+#u336-4
+{
+	z-index: 16;
+	width: 134px;
+	min-height: 12px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 5px;
+}
+
+#u358
+{
+	z-index: 15;
+	width: 144px;
+	padding-bottom: 1px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	left: 321px;
+}
+
+#u357-4
+{
+	z-index: 24;
+	width: 131px;
+	min-height: 11px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 7px;
+}
+
+#u117-5
+{
+	z-index: 7;
+	width: 288px;
+	min-height: 19px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 631px;
+}
+
+#u113
+{
+	z-index: 6;
+	width: 920px;
+	height: 1px;
+	margin-top: 4px;
+}
+
+#pu174
+{
+	width: 0.01px;
+	margin-left: 7px;
+	margin-top: 7px;
+}
+
+#u174
+{
+	z-index: 2;
+	width: 906px;
+	margin-right: -10000px;
+	left: 7px;
+}
+
+#u93
+{
+	z-index: 4;
+	width: 222px;
+	margin-right: -10000px;
+	margin-top: 13px;
+}
+
+#u93_img
+{
+	padding-right: 1px;
+}
+
+#u114
+{
+	z-index: 12;
+	width: 920px;
+	height: 3px;
+	margin-top: 6px;
+}
+
+#u442
+{
+	z-index: 28;
+	width: 792px;
+	background-color: transparent;
+	margin-left: 6px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u485
+{
+	z-index: 30;
+	width: 792px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F5F4F4;
+	margin-left: 6px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u486-4
+{
+	z-index: 31;
+	width: 507px;
+	min-height: 69px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #16599F;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 36px;
+}
+
+#u523
+{
+	z-index: 35;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-bottom: -6px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 570px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 125px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

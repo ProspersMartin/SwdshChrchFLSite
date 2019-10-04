@@ -1,0 +1,256 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftpes://swedishchurchinflorida.org" ftp_rootfolder="/" exportTarget="FTP" domain="donate.swedishchurchinflorida.org" resolutions="1x" timestamp="1555639497576">
+  <folder name="css">
+    <file name="site_global.css" crc="4166654967"/>
+    <file name="master_main.css" crc="3930911899" ref="vigsel-svenska:weddings-english:golf-payments:swedish-rapsody-concert:julbord:golf-event-info:sommarfesten-2017:membership:index:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="vigsel-svenska.css" crc="4150554683" ref="vigsel-svenska"/>
+    <file name="iefonts_vigsel-svenska.css" crc="15694569" ref="vigsel-svenska"/>
+    <file name="weddings-english.css" crc="3812155820" ref="weddings-english"/>
+    <file name="iefonts_weddings-english.css" crc="510491551" ref="weddings-english"/>
+    <file name="golf-payments.css" crc="3764021091" ref="golf-payments"/>
+    <file name="iefonts_golf-payments.css" crc="290226356" ref="golf-payments"/>
+    <file name="swedish-rapsody-concert.css" crc="519938391" ref="swedish-rapsody-concert"/>
+    <file name="iefonts_swedish-rapsody-concert.css" crc="4184258501" ref="swedish-rapsody-concert"/>
+    <file name="julbord.css" crc="4043504484" ref="julbord"/>
+    <file name="iefonts_julbord.css" crc="361699968" ref="julbord"/>
+    <file name="golf-event-info.css" crc="268207076" ref="golf-event-info"/>
+    <file name="iefonts_golf-event-info.css" crc="3888371319" ref="golf-event-info"/>
+    <file name="sommarfesten-2017.css" crc="464786907" ref="sommarfesten-2017"/>
+    <file name="iefonts_sommarfesten-2017.css" crc="4248092453" ref="sommarfesten-2017"/>
+    <file name="membership.css" crc="3767642802" ref="membership"/>
+    <file name="iefonts_membership.css" crc="524902010" ref="membership"/>
+    <file name="index.css" crc="180128418" ref="index"/>
+    <file name="iefonts_index.css" crc="243651023" ref="index"/>
+    <file name="songs-of-broadway.css" crc="3913271186" ref="songs-of-broadway"/>
+    <file name="iefonts_songs-of-broadway.css" crc="3873864449" ref="songs-of-broadway"/>
+    <file name="donations.css" crc="4252304962" ref="donations"/>
+    <file name="iefonts_donations.css" crc="4038279388" ref="donations"/>
+    <file name="girls-night-out.css" crc="4196844658" ref="girls-night-out"/>
+    <file name="iefonts_girls-night-out.css" crc="143371220" ref="girls-night-out"/>
+    <file name="valborg.css" crc="194253637" ref="valborg"/>
+    <file name="iefonts_valborg.css" crc="453510854" ref="valborg"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="museutils.js" crc="340535759" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="whatinput.js" crc="86476730" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="museconfig.js" crc="310584261" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="jquery.watch.js" crc="51536988" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+    <file name="require.js" crc="7928878" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg"/>
+  </folder>
+  <folder name="images">
+    <file name="florida_vinter_2010.jpg" crc="217772192" seo="true" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg">
+      <caption webpage="songs-of-broadway" alt=""/>
+      <caption webpage="easter-dinner-2019" alt=""/>
+      <caption webpage="golf-event-info" alt=""/>
+      <caption webpage="angel-sponsor-svenska" alt=""/>
+      <caption webpage="julbord" alt=""/>
+      <caption webpage="girls-night-out" alt=""/>
+      <caption webpage="swedish-rapsody-concert" alt=""/>
+      <caption webpage="donations" alt=""/>
+      <caption webpage="angel-sponsor-english" alt=""/>
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="membership" alt=""/>
+      <caption webpage="joy-singers" alt=""/>
+      <caption webpage="sommarfesten-2017" alt=""/>
+      <caption webpage="golf-payments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+      <caption webpage="valborg" alt=""/>
+    </file>
+    <file name="flo_logo_rgb.png" crc="3962916245" seo="true" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg">
+      <caption webpage="songs-of-broadway" alt=""/>
+      <caption webpage="easter-dinner-2019" alt=""/>
+      <caption webpage="golf-event-info" alt=""/>
+      <caption webpage="angel-sponsor-svenska" alt=""/>
+      <caption webpage="julbord" alt=""/>
+      <caption webpage="girls-night-out" alt=""/>
+      <caption webpage="swedish-rapsody-concert" alt=""/>
+      <caption webpage="donations" alt=""/>
+      <caption webpage="angel-sponsor-english" alt=""/>
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="membership" alt=""/>
+      <caption webpage="joy-singers" alt=""/>
+      <caption webpage="sommarfesten-2017" alt=""/>
+      <caption webpage="golf-payments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+      <caption webpage="valborg" alt=""/>
+    </file>
+    <file name="skif_golf_2018_tournament_logo_v1b_414x222.jpg" crc="238863737" seo="true" ref="golf-payments:golf-event-info">
+      <caption webpage="index" alt=""/>
+      <caption webpage="golf-event-info" alt=""/>
+      <caption webpage="golf-payments" alt=""/>
+    </file>
+    <file name="main_bg.jpg" crc="5322889" ref="golf-payments:index:golf-event-info:vigsel-svenska:weddings-english:membership:julbord:sommarfesten-2017:swedish-rapsody-concert:songs-of-broadway:donations:girls-night-out:valborg">
+      <caption webpage="songs-of-broadway" alt=""/>
+      <caption webpage="easter-dinner-2019" alt=""/>
+      <caption webpage="golf-event-info" alt=""/>
+      <caption webpage="angel-sponsor-svenska" alt=""/>
+      <caption webpage="julbord" alt=""/>
+      <caption webpage="girls-night-out" alt=""/>
+      <caption webpage="swedish-rapsody-concert" alt=""/>
+      <caption webpage="donations" alt=""/>
+      <caption webpage="angel-sponsor-english" alt=""/>
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="membership" alt=""/>
+      <caption webpage="joy-singers" alt=""/>
+      <caption webpage="sommarfesten-2017" alt=""/>
+      <caption webpage="golf-payments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+      <caption webpage="valborg" alt=""/>
+    </file>
+    <file name="logo_scc_kyrkan-utifr-distans_366x243.jpg" crc="165128260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2424_300x200.jpg" crc="3910848014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2433_600x605.jpg" crc="416168933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="event-info-pg-backgr.png" crc="3921374622" seo="true" ref="golf-event-info">
+      <caption webpage="golf-event-info" alt=""/>
+    </file>
+    <file name="bröllop på stranden.jpg" crc="4166104991" seo="true" ref="vigsel-svenska:weddings-english">
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+    </file>
+    <file name="7(19).jpg" crc="104121843" seo="true" ref="vigsel-svenska:weddings-english">
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+    </file>
+    <file name="scc_kyrkan-utifr-distans_243x243.jpg" crc="232241856" seo="true" ref="vigsel-svenska:weddings-english">
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+    </file>
+    <file name="img_1987-crop-u847.jpg" crc="71586712" seo="true" ref="vigsel-svenska">
+      <caption webpage="vigsel-svenska" alt=""/>
+    </file>
+    <file name="2(39).jpg" crc="196353059" seo="true" ref="vigsel-svenska:weddings-english">
+      <caption webpage="vigsel-svenska" alt=""/>
+      <caption webpage="weddings-english" alt=""/>
+    </file>
+    <file name="img_1987-crop-u960.jpg" crc="71586712" seo="true" ref="weddings-english">
+      <caption webpage="weddings-english" alt=""/>
+    </file>
+    <file name="scc_kyrkan-utifr-distans_243x2432.jpg" crc="232241856" seo="true" ref="membership">
+      <caption webpage="membership" alt=""/>
+    </file>
+    <file name="12-2011 lucia miami 082.jpg" crc="181322230" seo="true" ref="membership">
+      <caption webpage="membership" alt=""/>
+    </file>
+    <file name="ungdomskoren.jpg" crc="3799525726" seo="true" ref="membership">
+      <caption webpage="membership" alt=""/>
+    </file>
+    <file name="julbord.jpg" crc="224214825" seo="true" ref="julbord">
+      <caption webpage="julbord" alt=""/>
+    </file>
+    <file name="midsommardans_2.jpg" crc="4041851056" seo="true" ref="sommarfesten-2017">
+      <caption webpage="sommarfesten-2017" alt=""/>
+    </file>
+    <file name="artboard 1.png" crc="94434586" seo="true" ref="sommarfesten-2017">
+      <caption webpage="sommarfesten-2017" alt=""/>
+    </file>
+    <file name="swedishrapsody_header.jpg" crc="4076777328" seo="true" ref="swedish-rapsody-concert">
+      <caption webpage="swedish-rapsody-concert" alt=""/>
+    </file>
+    <file name="helene lundstrom kaufman bw.jpg" crc="4066960986" seo="true" ref="songs-of-broadway">
+      <caption webpage="index" alt=""/>
+      <caption webpage="songs-of-broadway" alt=""/>
+    </file>
+    <file name="donations.jpg" crc="239147927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="songs-of-broadway-01.png" crc="105912659" seo="true" ref="songs-of-broadway">
+      <caption webpage="songs-of-broadway" alt=""/>
+    </file>
+    <file name="nils-petter ankarblom pressbild2016_web-crop-u2419.jpg" crc="3930722563" seo="true" ref="songs-of-broadway">
+      <caption webpage="songs-of-broadway" alt=""/>
+    </file>
+    <file name="donations_$_web.jpg" crc="4078123183" seo="true" ref="donations">
+      <caption webpage="donations" alt=""/>
+    </file>
+    <file name="kyrkan_davie_altare.jpg" crc="240878788" seo="true" ref="donations">
+      <caption webpage="donations" alt=""/>
+    </file>
+    <file name="bigstock-selfie-with-happy-girl-beauti-260434315.jpg" crc="332554324" seo="true" ref="girls-night-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="girls-night-out" alt=""/>
+    </file>
+    <file name="bigstock--184453804-crop-u2750.jpg" crc="4022945650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigstock--184453804.jpg" crc="3821527372" seo="true" ref="valborg">
+      <caption webpage="valborg" alt=""/>
+    </file>
+  </folder>
+  <file name="golf-payments.html" crc="4265837042" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="index.html" crc="3781804263" seo="true" mt="1555639465093" redirect="true"/>
+  <file name="golf-event-info.html" crc="4232741837" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="vigsel-svenska.html" crc="4196077086" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="weddings-english.html" crc="162247572" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="membership.html" crc="223786933" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="julbord.html" crc="4213910863" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="sommarfesten-2017.html" crc="416794929" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="swedish-rapsody-concert.html" crc="453837495" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="songs-of-broadway.html" crc="408104691" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="donations.html" crc="311137597" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="girls-night-out.html" crc="4077677377" seo="true" mt="1555639160580" redirect="true"/>
+  <file name="valborg.html" crc="293477541" seo="true" mt="1555639160580" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U348"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Golf Payments" filename="golf-payments.html" muse_href="page:U68" master="U59">
+        <breakpoint uid="U1225" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="main" master="U55" uid="U59">
+        <breakpoint uid="U1230" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U1231" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Home" filename="index.html" muse_href="page:U374" master="U59">
+        <breakpoint uid="U1232" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Golf Event Info" filename="golf-event-info.html" muse_href="page:U380" master="U59">
+        <breakpoint uid="U1229" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Songs of Broadway" filename="songs-of-broadway.html" muse_href="page:U700" master="U59">
+        <breakpoint uid="U1224" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Vigsel Svenska" filename="vigsel-svenska.html" muse_href="page:U777" master="U59">
+        <breakpoint uid="U1222" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Weddings English" filename="weddings-english.html" muse_href="page:U952" master="U59">
+        <breakpoint uid="U1227" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Donations" filename="donations.html" muse_href="page:U996" master="U59">
+        <breakpoint uid="U1226" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Membership" filename="membership.html" muse_href="page:U1123" master="U59">
+        <breakpoint uid="U1228" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Julbord" filename="julbord.html" muse_href="page:U1703" master="U59">
+        <breakpoint uid="U1693" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Sommarfesten 2017" filename="sommarfesten-2017.html" muse_href="page:U1934" master="U59">
+        <breakpoint uid="U1924" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Swedish Rapsody Concert" filename="swedish-rapsody-concert.html" muse_href="page:U2245" master="U59">
+        <breakpoint uid="U2235" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Girls Night Out" filename="girls-night-out.html" muse_href="page:U2553" master="U59">
+        <breakpoint uid="U2543" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Valborg" filename="valborg.html" muse_href="page:U2656" master="U59">
+        <breakpoint uid="U2637" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
